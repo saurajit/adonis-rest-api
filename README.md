@@ -14,10 +14,10 @@ adonis migration:run
 adonis serve --dev
 ```
 
-#References
+# References
 * https://blog.pusher.com/build-rest-apis-in-adonis-4-0
 * Code reference https://github.com/christiannwamba/adonisjs-restful-api/
 
-#Remote Coding
+# Remote Coding
 Details to be added
 `--no-bin-links`
